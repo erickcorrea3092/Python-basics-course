@@ -1,18 +1,21 @@
 # Python-basics-course
 
-El repositorio Python-basics-course (de la cuenta erickcorrea3092) es un proyecto educativo concebido como un curso estructurado y guía de referencia sobre los fundamentos de programación en Python.
+The Python-basics-course repository (from the erickcorrea3092 account) is an educational project designed as a structured course and reference guide on the fundamentals of Python programming.
 
-A continuación se detalla en qué consiste y cómo se compone:
+Below is a detailed breakdown of what it consists of and how it is structured:
 
-🎯 Objetivo Principal
-Proporcionar un recurso de aprendizaje paso a paso para dominar las bases del lenguaje Python, sirviendo tanto para estudiantes que están empezando desde cero como para desarrolladores que desean repasar los conceptos fundamentales.
+🎯 Main Objective
 
-📚 Contenido y Temas Clave
-El repositorio abarca los pilares esenciales del desarrollo con Python:
+Provide a step-by-step learning resource to master the basics of the Python language, serving both students starting from scratch and developers looking to refresh fundamental concepts.
 
-💡 Enfoque Práctico
-Ejemplos de código directos: Cada módulo contiene scripts de Python (.py) comentados y listos para ejecutarse.
+📚 Key Content and Topics
 
-Ejercicios prácticos: Proyectos y retroalimentación para afianzar lo aprendido en cada sección.
+The repository covers the essential pillars of Python development:
 
-Documentación clara: Sirve como portafolio personal en GitHub y como manual rápido de consulta para proyectos futuros.
+💡 Hands-On Approach
+
+Direct code examples: Each module contains commented Python scripts (.py) ready to execute.
+
+Practical exercises: Projects and feedback to reinforce learning in each section.
+
+Clear documentation: Serves as a personal portfolio on GitHub and a quick reference guide for future projects.
